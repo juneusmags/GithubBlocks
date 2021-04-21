@@ -1,0 +1,78 @@
+body{
+    background-color:lightgray;
+}
+
+h1{
+    text-align : center;
+    font-size: 85px;
+    font-family: Lobster;
+}
+
+#row1{
+    background-color: lightblue;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin : 50px;
+}
+
+.adventurecat{
+    width: 600px;
+    height: auto;
+    margin: 25px;
+}
+.push{
+    width: 600px;
+    height: auto;
+    margin : 25px;
+}
+
+.vision{
+    width: 600px;
+    height: auto;
+    margin : 25px;
+}
+
+#row2{
+    background-color: pink;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin : 50px;
+}
+.dojo{
+    width: 600px;
+    height: auto;
+    margin: 25px; 
+}
+.spider{
+    width: 600px;
+    height: auto;
+    margin: 25px;
+}
+
+#row3{
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin : 50px;
+}
+
+.iron{
+    width: 600px;
+    height: auto;
+    margin: 25px;
+}
+
+.film{
+    width: 600px;
+    height: auto;
+    margin: 25px;
+}
+
+.catsello{
+    width: 600px;
+    height: auto;
+    margin: 25px;
+}
